@@ -134,11 +134,11 @@ input {
 .chat-bubble {
     border-radius: 20px 20px 20px 0;
     padding: 15px;
-    background-color: #7cc5d9;
+    background-color: #FF0032;
     color: #1c2c4c;
     width: max-content;
     max-width: calc(100% - 50px);
-    box-shadow: -2px 2px 1px 1px #4c768d;
+    box-shadow: 2px 1px 8px #FF0032;
     display: flex;
     align-items: flex-start;
     margin-bottom: 25px;
