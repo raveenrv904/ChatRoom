@@ -134,7 +134,7 @@ input {
 .chat-bubble {
     border-radius: 20px 20px 20px 0;
     padding: 15px;
-    background-color: #FF0032;
+    background-color: #EC7272;
     color: #1c2c4c;
     width: max-content;
     max-width: calc(100% - 50px);
